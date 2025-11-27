@@ -66590,7 +66590,7 @@ U(a){return A.ZA(new A.Yb(this))}}
 A.Yb.prototype={
 $2(a,b){var s="assets/images/naodilogodesenho.svg",r=null,q="NAODI LUZ",p="Posso ajudar?",o=t.F,n=this.a,m=n.c,l=n.d
 n=n.e
-return A.ew(r,b.b<800?A.ev(A.c([A.lA(A.c([A.air(s,B.ay,B.fy,50),A.lI(r,r,10),A.ko(q,A.aq9().$3$color$fontSize$fontWeight(B.ay,26,B.R),r)],o),B.O,B.i1,B.M),B.wa,A.anH(B.cx,A.c([new A.iS(p,m,r),new A.iS("Sobre",l,r),new A.iS("Contato",n,r)],o),8,16)],o),B.O,B.I,B.M):A.lA(A.c([A.lA(A.c([A.air(s,B.ay,B.fy,50),A.lI(r,r,10),A.ko(q,A.aq9().$3$color$fontSize$fontWeight(B.ay,26,B.R),r)],o),B.O,B.I,B.M),A.pA(A.ew(r,r,B.v,r,r,r,r,r,r,r,r,r,r),1),B.wa,new A.iS(p,m,r),new A.iS("Sobre",l,r),new A.iS("Contato",n,r)],o),B.O,B.qw,B.M),B.v,r,r,r,r,r,r,B.Dp,r,r,r)},
+return A.ew(r,b.b<800?A.ev(A.c([A.lA(A.c([A.air(s,B.ay,B.fy,50),A.lI(r,r,10),A.ko(q,A.aq9().$3$color$fontSize$fontWeight(B.ay,26,B.R),r)],o),B.O,B.i1,B.M),B.wa,A.anH(B.cx,A.c([new A.iS(p,m,r),new A.iS("Sobre",l,r),new A.iS("Contato",n,r)],o),4,8)],o),B.O,B.I,B.M):A.lA(A.c([A.lA(A.c([A.air(s,B.ay,B.fy,50),A.lI(r,r,10),A.ko(q,A.aq9().$3$color$fontSize$fontWeight(B.ay,26,B.R),r)],o),B.O,B.I,B.M),A.pA(A.ew(r,r,B.v,r,r,r,r,r,r,r,r,r,r),1),B.wa,new A.iS(p,m,r),new A.iS("Sobre",l,r),new A.iS("Contato",n,r)],o),B.O,B.qw,B.M),B.v,r,r,r,r,r,r,B.Dp,r,r,r)},
 $S:403}
 A.iS.prototype={
 ar(){return new A.Nu()}}

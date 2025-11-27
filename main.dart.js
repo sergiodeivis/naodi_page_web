@@ -66588,9 +66588,9 @@ return A.ew(s,A.ev(A.c([A.ko("\xa9 "+A.amB(new A.hA(Date.now(),0,!1))+" Psic\xf3
 A.Fn.prototype={
 U(a){return A.ZA(new A.Yb(this))}}
 A.Yb.prototype={
-$2(a,b){var s="assets/images/naodilogodesenho.svg",r=null,q="NAODI LUZ",p="Servi\xe7os",o=t.F,n=this.a,m=n.c,l=n.d
-n=n.e
-return A.ew(r,b.b<800?A.ev(A.c([A.lA(A.c([A.air(s,B.ay,B.fy,50),A.lI(r,r,10),A.ko(q,A.aq9().$3$color$fontSize$fontWeight(B.ay,26,B.R),r)],o),B.O,B.i1,B.M),B.wa,A.anH(B.cx,A.c([new A.iS(p,m,r),new A.iS("Sobre",l,r),new A.iS("Contato",n,r)],o),8,16)],o),B.O,B.I,B.M):A.lA(A.c([A.lA(A.c([A.air(s,B.ay,B.fy,50),A.lI(r,r,10),A.ko(q,A.aq9().$3$color$fontSize$fontWeight(B.ay,26,B.R),r)],o),B.O,B.I,B.M),A.pA(A.ew(r,r,B.v,r,r,r,r,r,r,r,r,r,r),1),B.wa,new A.iS(p,m,r),new A.iS("Sobre",l,r),new A.iS("Contato",n,r)],o),B.O,B.qw,B.M),B.v,r,r,r,r,r,r,B.Dp,r,r,r)},
+$2(a,b){var s="assets/images/naodilogodesenho.svg",r=null,q="NAODI LUZ",p=t.F,o=this.a,n=o.c,m=o.d
+o=o.e
+return A.ew(r,b.b<800?A.ev(A.c([A.lA(A.c([A.air(s,B.ay,B.fy,50),A.lI(r,r,10),A.ko(q,A.aq9().$3$color$fontSize$fontWeight(B.ay,26,B.R),r)],p),B.O,B.i1,B.M),B.wa,A.anH(B.cx,A.c([new A.iS("Servi\xe7os",n,r),new A.iS("Sobre",m,r),new A.iS("Contato",o,r)],p),8,16)],p),B.O,B.I,B.M):A.lA(A.c([A.lA(A.c([A.air(s,B.ay,B.fy,50),A.lI(r,r,10),A.ko(q,A.aq9().$3$color$fontSize$fontWeight(B.ay,26,B.R),r)],p),B.O,B.I,B.M),A.pA(A.ew(r,r,B.v,r,r,r,r,r,r,r,r,r,r),1),B.wa,new A.iS("Posso ajudar?",n,r),new A.iS("Sobre",m,r),new A.iS("Contato",o,r)],p),B.O,B.qw,B.M),B.v,r,r,r,r,r,r,B.Dp,r,r,r)},
 $S:403}
 A.iS.prototype={
 ar(){return new A.Nu()}}
@@ -66712,7 +66712,7 @@ $0(){var s=this.a
 return s.qi(s.w)},
 $S:0}
 A.J0.prototype={
-U(a){var s=null,r=t.s,q=t.N,p=t.K,o=A.c([A.aQ(["icon",B.Ed,"title","Atendimento Psicol\xf3gico Individual e em grupo","items",A.c(["Terapia Cognitivo-Comportamental (TCC)","Ansiedade e crises de ansiedade","Depress\xe3o","Baixa autoestima","Estresse e esgotamento emocional","Controle de pensamentos intrusivos","Autoconhecimento e desenvolvimento pessoal"],r)],q,p),A.aQ(["icon",B.E9,"title","Bem-Estar Emocional","items",A.c(["Regula\xe7\xe3o emocional","Terapia para autoestima e autoconfian\xe7a","Manejo de estresse","Habilidades sociais","Resgate da motiva\xe7\xe3o e prop\xf3sito"],r)],q,p),A.aQ(["icon",B.E8,"title","Apoio a Relacionamentos","items",A.c(["Conflitos familiares","Relacionamentos amorosos","Ciclos emocionais e padr\xf5es repetitivos","Comunica\xe7\xe3o assertiva"],r)],q,p)],t.Mq)
+U(a){var s=null,r=t.s,q=t.N,p=t.K,o=A.c([A.aQ(["icon",B.Ed,"title","Atendimento Psicol\xf3gico Individual e em grupo","items",A.c(["Terapia Cognitivo-Comportamental (TCC)","Ansiedade e trantorno de p\xe2nico","Depress\xe3o","Baixa autoestima","Estresse e esgotamento emocional","Controle de pensamentos intrusivos","Autoconhecimento e desenvolvimento pessoal"],r)],q,p),A.aQ(["icon",B.E9,"title","Bem-Estar Emocional","items",A.c(["Regula\xe7\xe3o emocional","Terapia para autoestima e autoconfian\xe7a","Manejo de estresse","Habilidades sociais","Resgate da motiva\xe7\xe3o e prop\xf3sito"],r)],q,p),A.aQ(["icon",B.E8,"title","Apoio a Relacionamentos","items",A.c(["Conflitos familiares","Relacionamentos amorosos","Ciclos emocionais e padr\xf5es repetitivos","Comunica\xe7\xe3o assertiva"],r)],q,p)],t.Mq)
 return A.ew(s,A.ev(A.c([A.ko("Como posso te ajudar?",A.i2(s,s,B.aH,s,s,s,s,s,s,s,s,40,s,s,B.ae,s,s,!0,s,s,s,s,s,s,s,s),B.aw),B.Mp,B.Rg,B.Mt,A.ZA(new A.a6v(o))],t.F),B.O,B.I,B.M),B.v,B.i,s,s,s,s,s,B.h5,s,s,s)}}
 A.a6v.prototype={
 $2(a,b){var s,r,q=b.b
